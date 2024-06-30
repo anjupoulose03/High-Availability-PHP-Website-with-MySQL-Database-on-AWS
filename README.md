@@ -41,7 +41,7 @@ Accessed the website homepage using the public IP of the ec2 machine.
 
 <br>
 
-The enetered values showup as below.
+The entered values showup as below.
 
 ![image](https://github.com/anjupoulose03/High-Availability-PHP-Website-with-MySQL-Database-on-AWS/assets/159629591/e209cb35-1893-415a-a945-fda6adbf3a6a)
 
