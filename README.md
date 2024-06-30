@@ -29,4 +29,26 @@ This project focuses on deploying a highly available and scalable web applicatio
 - Configured security groups to allow traffic from the EC2 instances to the RDS instance. This ensures the web application can communicate with the database securely.
 
 - Updated security groups to allow necessary traffic to the EC2 instances, enabling full functionality of the web application.
+
+## Conclusion
+This project demonstrates the setup of a high-availability web application on AWS using EC2, Auto Scaling, RDS and ELB. 
+
+## Outputs
+
+Accessed the website homepage using the public IP of the ec2 machine.
+
+![image](https://github.com/anjupoulose03/High-Availability-PHP-Website-with-MySQL-Database-on-AWS/assets/159629591/e3fec0a6-1a74-4de1-bfb2-12dad250aabc)
+
+<br>
+
+The enetered values showup as below.
+
+![image](https://github.com/anjupoulose03/High-Availability-PHP-Website-with-MySQL-Database-on-AWS/assets/159629591/e209cb35-1893-415a-a945-fda6adbf3a6a)
+
+<br>
+
+![image](https://github.com/anjupoulose03/High-Availability-PHP-Website-with-MySQL-Database-on-AWS/assets/159629591/e0da3700-be38-41c3-ac57-3cd7f8492946)
+
+
+
   
